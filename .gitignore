@@ -1,0 +1,5 @@
+.idea
+node_modules
+
+test-reports.xml
+atlassian-ide-plugin.xml
