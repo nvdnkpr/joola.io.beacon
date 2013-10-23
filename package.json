@@ -37,6 +37,8 @@
     "citest": "mocha --reporter xunit > test-reports.xml"
   },
   "dependencies": {
+    "joola.io.logger":"x",
+    
     "express": "3.x",
     "node-controlport": "0.x",
     "jade": "0.x",
